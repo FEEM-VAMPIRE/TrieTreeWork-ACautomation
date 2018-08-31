@@ -1,0 +1,127 @@
+<doc id="ENG_DF_001503_20131225_G00A0GHEQ">
+<headline>
+What shall I do with a Raspberry Pi?
+</headline>
+<post author="kimilseung" datetime="2013-12-25T14:51:00" id="p1">
+Santa got me a poor mans computer, but what are they good for? I could put xbmc on it and celotape it to the TV. Any other suggestions?
+</post>
+<post author="retzie" datetime="2013-12-25T14:55:00" id="p2">
+<a href="http://hackaday.com/2013/12/15/raspberry-pi-wall-calendar/">Wall calendar</a> ?
+</post>
+<post author="Nutek" datetime="2013-12-25T15:23:00" id="p3">
+Mame.
+
+<img src="http://britishexpats.com/forum/images/smilies/smile.gif"/>
+
+<img src="http://static.trustedreviews.com/94/000022938/de76/arcade.jpg"/>
+</post>
+<post author="Casual Observer" datetime="2013-12-25T16:37:00" id="p4">
+I can think of 3.14159265 things to do with it.
+</post>
+<post author="steveq" datetime="2013-12-25T16:52:00" id="p5">
+<quote orig_author="kimilseung">
+Santa got me a poor mans computer, but what are they good for? I could put xbmc on it and celotape it to the TV. Any other suggestions?
+</quote>
+IPcam
+Mame Cabinet
+WiFi radio
+Run all your christmas lights NEXT year.
+<a href="http://jamboree.bytemark.co.uk/PCPro.January2013.219.pdf">http://jamboree.bytemark.co.uk/PCPro...ry2013.219.pdf</a>
+<a href="http://reviews.cnet.co.uk/desktops/25-fun-things-to-do-with-a-raspberry-pi-50009851/">http://reviews.cnet.co.uk/desktops/2...y-pi-50009851/</a>
+</post>
+<post author="Nutek" datetime="2014-01-07T13:11:00" id="p6">
+Just came across this site.
+
+<a href="http://www.themagpi.com/">http://www.themagpi.com/</a>
+</post>
+<post author="bertkloss9" datetime="2014-01-08T17:44:00" id="p7">
+A good thing to put on the pi is XBMC (google it !). It turns it in to a media centre. From there you can manage all your photos/videos and even watch live TV (including BBC).
+
+Hope this post doesn't get deleted for spam (because it's not spam!). Just trying to help the original poster.
+</post>
+<post author="steveq" datetime="2014-01-08T18:01:00" id="p8">
+<quote orig_author="bertkloss9">
+A good thing to put on the pi is XBMC (google it !). It turns it in to a media centre. From there you can manage all your photos/videos and even watch live TV (including BBC).
+
+Hope this post doesn't get deleted for spam (because it's not spam!). Just trying to help the original poster.
+</quote>
+Yes XBMC is an amazing thing to run on that little computer.
+</post>
+<post author="anuny" datetime="2014-01-09T06:45:00" id="p9">
+Cool. You can make any doodad that currently you do not have. I'm making a pocket router <img src="http://britishexpats.com/forum/images/smilies/smile.gif"/>
+</post>
+<post author="JeremyK" datetime="2014-01-09T17:53:00" id="p10">
+I have run XBMC for a long time, so it made sense to put Raspbmc on an SD Card.
+
+I have OpenVPN setup on another for secure access back to my LAN from public wifi hotspots.
+
+I going to start working on OwnCloud tomorrow so my most important data (US Visa included <img src="http://britishexpats.com/forum/images/smilies/smile.gif"/> ) is backed up on more than one device. Which also doubles up as a LAMP box, for my private wiki.
+
+Yes I'm an IT geek. So sorry if this is too much info.
+
+If all else fails, as mentioned it's plenty powerful for Mame and some other gaming.
+</post>
+<post author="Uncle_Bob" datetime="2014-01-09T18:28:00" id="p11">
+<quote orig_author="JeremyK">
+I have run XBMC for a long time, so it made sense to put Raspbmc on an SD Card.
+
+I have OpenVPN setup on another for secure access back to my LAN from public wifi hotspots.
+
+I going to start working on OwnCloud tomorrow so my most important data (US Visa included <img src="http://britishexpats.com/forum/images/smilies/smile.gif"/> ) is backed up on more than one device. Which also doubles up as a LAMP box, for my private wiki.
+
+Yes I'm an IT geek. So sorry if this is too much info.
+
+If all else fails, as mentioned it's plenty powerful for Mame and some other gaming.
+</quote>
+Can you recommend a good USB Wifi adapter for it?
+</post>
+<post author="JeremyK" datetime="2014-01-09T18:31:00" id="p12">
+Sorry I cannot, I forget now what mine is. Though I did buy mine from a Pi retailer. This is probably your best bet.
+</post>
+<post author="steveq" datetime="2014-01-09T19:22:00" id="p13">
+<quote orig_author="Uncle_Bob">
+Can you recommend a good USB Wifi adapter for it?
+</quote>
+Try Adafruit
+</post>
+<post author="Uncle_Bob" datetime="2014-01-10T16:27:00" id="p14">
+I might be looking at a Model B to use XBMC. Should i get a regular Ubuntu distribution or go with XBMCbuntu. What do you use for media storage with the Pi? I would like to have a huge movie collection stored on a HDD ideally (either connected or on a server over wifi). The only other thing i would likely like to use it for is MAME, but then i see the RetroPlayer feature in XBMC is going to support MAME ROMs and others.
+
+Some other questions
+
+Is it possible to use a game controller?
+Does XBMC have some kind of remote control or does it need the Pi keyboard and mouse attached all the time?
+</post>
+<post author="dunroving" datetime="2014-01-10T16:32:00" id="p15">
+I just read this thread and feel like I stepped into a parallel universe.
+</post>
+<post author="Nutek" datetime="2014-01-10T16:45:00" id="p16">
+<quote orig_author="dunroving">
+I just read this thread and feel like I stepped into a parallel universe.
+</quote>
+Here you go. <img src="http://britishexpats.com/forum/images/smilies/wink.gif"/>
+
+<img src="http://www.seductionmeals.com/fresh_raspberry_pie.jpg"/>
+</post>
+<post author="steveq" datetime="2014-01-10T16:55:00" id="p17">
+<quote orig_author="Uncle_Bob">
+I might be looking at a Model B to use XBMC. Should i get a regular Ubuntu distribution or go with XBMCbuntu.
+</quote>
+
+Don't muck about - all the dependencies are just sorted out for you on the XBMCbuntu disk.
+
+<quote>
+</quote>
+
+Big ass external USB 3 hard disk, with an external PSU too.
+
+<quote>
+</quote>
+<a href="http://www.makeuseof.com/tag/connect-your-xbox-360-controller-to-your-linux-gaming-rig/">http://www.makeuseof.com/tag/connect...ux-gaming-rig/</a>
+</post>
+<post author="kimilseung" datetime="2014-01-10T19:41:00" id="p18">
+The OpenElec system in NOOBS comes with XBMC and is all ready to go, just needs your sources adding.
+
+I am using a Network storage drive with a wireless thumb. Also using a remote control from a Windows Media Center PC, it works out of the box.
+</post>
+</doc>

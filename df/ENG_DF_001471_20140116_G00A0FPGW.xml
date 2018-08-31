@@ -1,0 +1,84 @@
+<doc id="ENG_DF_001471_20140116_G00A0FPGW">
+<headline>
+UK Court Allows Activists to Sue Google Over Safari Tracking
+</headline>
+<post author="MacRumors" datetime="2014-01-16T08:25:00" id="p1">
+A UK Court will allow a group of privacy experts to sue Google over the company's <a href="http://www.macrumors.com/2012/02/17/google-under-fire-for-circumvention-of-cookie-settings-in-safari-for-ios-to-track-users/">circumvention</a> of privacy settings in Apple's Safari browser, <a href="http://gigaom.com/2014/01/16/privacy-activists-can-sue-google-in-uk-over-safari-tracking-court-decides/">reports Gigaom</a>. Following this ruling, the activists can pursue a tort claim that alleges Google misused their private information. The Honourable Mr Justice Tugendhat writes in his decision:
+
+<quote>
+"I am satisfied that there is a serious issue to be tried in each of the Claimants' claims for misuse of private information... The Claimants' application to rely on ground (9) in relation to the DPA [Data Protection Act] claim is allowed... the Claimants have clearly established that this jurisdiction is the appropriate one in which to try each of the above claims."
+</quote>
+
+This case stems from Google's former practice of installing cookies in Safari even when the web browser blocked that practice. Google circumvented the browser's default privacy settings by tricking Safari into thinking a web page was a trusted page. Google did this through code embedded in its ads that made Safari think the user was submitting a form. When a user fills out a form, Safari makes an exception in its privacy policy and allows a cookie to be installed on a user's device, and Google exploited this exception to install cookies without the permission of the user.
+
+<img src="proxy.php?image=http%3A%2F%2Fimages.macrumors.com%2Farticle-new%2F2012%2F02%2Fgoogle_safari_ios_tracking.jpg&amp;hash=b3c5e2ed3cacd3d9d585fc6f0e907fdc" alt="[ IMG]"/>
+<a href="http://online.wsj.com/article_email/SB10001424052970204880404577225380456599176-lMyQjAxMTAyMDEwNjExNDYyWj.html">Graphic from The Wall Street Journal</a>
+Google halted this practice in 2012 after it was reported by The Wall Street Journal, but consumers and regulators pursued the case through several investigations and lawsuits. The company <a href="http://www.macrumors.com/2012/08/09/google-to-pay-22-5-million-settlement-in-safari-privacy-circumvention-case/">was fined</a> $22.5 million by the U.S. Federal Trade Commission for this privacy violation and paid <a href="http://www.macrumors.com/2013/11/18/google-to-pay-17-million-settlement-to-states-in-safari-privacy-circumvention-case/">a $17 million settlement</a> in a case filed on behalf of Thirty-seven states and the District of Columbia.
+
+Article Link: <a href="http://www.macrumors.com/2014/01/16/uk-google-safari-tracking/">UK Court Allows Activists to Sue Google Over Safari Tracking</a>
+</post>
+<post author="Lionel Messi" datetime="2014-01-16T08:34:00" id="p2">
+Google's going down!
+</post>
+<post author="roadbloc" datetime="2014-01-16T08:37:00" id="p3">
+Good. Next up, everybody else who thinks its a good idea to take personal information without permission...*COUGH*... NSA.
+</post>
+<post author="TsunamiTheClown" datetime="2014-01-16T08:43:00" id="p4">
+I'm all for privacy, but where does this cash go?
+
+<quote>
+The company was fined $22.5 million by the U.S. Federal Trade Commission for this privacy violation and paid a $17 million settlement in a case filed on behalf of Thirty-seven states and the District of Columbia.
+</quote>
+
+Why are 37 states getting paid because Google screws me?
+</post>
+<post author="samcraig" datetime="2014-01-16T08:55:00" id="p5">
+I admit I have little knowledge on the UK court system.
+
+However - my only question is - what damage occurred and is that an important metric to prove in order to win a case.
+</post>
+<post author="B4U" datetime="2014-01-16T09:21:00" id="p6">
+Where is our share of the cash when we are the actual victims instead of some of the states and not all of them?
+</post>
+<post author="UnfetteredMind" datetime="2014-01-16T09:49:00" id="p7">
+<quote orig_author="Lionel Messi">
+Google's going down!
+</quote>
+
+I'm sure they'll get a stern talking to and some serious finger wagging! <img src="styles/default/xenforo/clear.png" alt=":p"/>
+</post>
+<post author="gnasher729" datetime="2014-01-16T10:25:00" id="p8">
+<quote orig_author="TsunamiTheClown">
+I'm all for privacy, but where does this cash go?
+
+Why are 37 states getting paid because Google screws me?
+</quote>
+
+The idea is that having to pay a fine stops Google from doing it again. So the important thing is Google paying out. Who receives it is secondary.
+</post>
+<post author="Cuban Missles" datetime="2014-01-16T11:16:00" id="p9">
+Does anyone know if Apple has made any changes to Safari to prevent others from exploiting the same approach?
+</post>
+<post author="B4U" datetime="2014-01-16T11:31:00" id="p10">
+<quote orig_author="gnasher729">
+The idea is that having to pay a fine stops Google from doing it again. So the important thing is Google paying out. Who receives it is secondary.
+</quote>
+
+By this logic, the company that killed someone by a poor product only need to pay the government and the actual victim is only secondary? Him...don't know if I can agree to that.
+</post>
+<post author="Taz Mangus" datetime="2014-01-16T11:43:00" id="p11">
+<quote orig_author="gnasher729">
+The idea is that having to pay a fine stops Google from doing it again. So the important thing is Google paying out. Who receives it is secondary.
+</quote>
+
+Paying a fine of $22.5 million means nothing to a company like Google, like paying $10 to the average person. There is nothing about the amount that would deter them from doing something like that again. It is ironic that Google got rid of their motto "Don't be evil". Didn't Google also once use the motto "Do no harm"? My how times have changed.
+</post>
+<post author="the8thark" datetime="2014-01-16T13:01:00" id="p12">
+Blah blah blah Sue Google blah blah
+
+A good day today.
+</post>
+<post author="eastercat" datetime="2014-01-16T15:17:00" id="p13">
+At least we can sue Google, unlike the NSA.
+</post>
+</doc>

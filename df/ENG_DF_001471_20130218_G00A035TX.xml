@@ -1,0 +1,41 @@
+<doc id="ENG_DF_001471_20130218_G00A035TX">
+<headline>
+Raspberry Pi uses and set ups!
+</headline>
+<post author="grooveattack" datetime="2013-02-18T01:07:00" id="p1">
+hey guys!
+
+Just wanted to see all the projects people have come up with using their Raspberry pi.
+
+I'll start, Using mine as a media centre. I tried Openelec but it used 100% cpu when idle so moved on to xbian and that is working great.
+Attached Files:
+<a href="attachments/12345678900-jpg.397721/">12345678900.jpg</a> File size: 141.7 KB Views: 115
+</post>
+<post author="skippymac" datetime="2013-02-18T03:18:00" id="p2">
+I've been using raspBMC for airplay music streaming from my iphone in my room.
+
+Did have it in the car which was cool but I don't think the power supply was consistent enough as it was a bit dodgy.
+May get round to putting a proper PSU in sometime but they cost more than the pi itself so we'll have to see <img src="styles/default/xenforo/clear.png" alt=":p"/>
+
+EDIT: Oh and I'll post pics when I get home <img src="styles/default/xenforo/clear.png" alt=":)"/>
+</post>
+<post author="afd" datetime="2013-02-18T04:54:00" id="p3">
+Got a case and wifi dongle for mine this weekend, installed Raspmc and connected it to a telly in our kitchen as haven't got round to putting an aerial socket there yet.
+Works surprisingly well and can watch FreeView via TVcatchup and the terrestrial channels catchup services. Haven't got my head round how to tag my iTunes media for xbmc yet though.
+Apart from the Pi I think I spent £5 on the case, £8 on the dongle and £7 on an SD card and use the free XBMC remote on my iPhone. I also needed an old USB keyboard for initial setup
+If I'm honest though, I think I'd prefer an Apple TV there eventually but at the moment I have a perfectly usable and arguably more powerful device for around half the price.
+</post>
+<post author="SimonUK5" datetime="2013-02-18T06:36:00" id="p4">
+Using mine currently just to trigger a row of LEDs via Python, got a pretty basic prototyping board set up with LEDs and 330r's on.
+
+going to make a 3x3x3 LED Cube so make some cool light patterns on <img src="styles/default/xenforo/clear.png" alt=":)"/>
+</post>
+<post author="SK360" datetime="2013-02-18T06:38:00" id="p5">
+As soon as the raspberry pi/android builds of xbmc support HD audio bitstreaming/multichannel audio ill jump ship.
+
+Looking at using one to build a DIY aquarium controller
+</post>
+<post author="EmmEff" datetime="2013-02-18T06:43:00" id="p6">
+I plan on building a home automation system around a Raspberry Pi. I'll probably start out using Misterhouse and then write my own software in Python. It'll be INSTEON based using their USB interface adapter.
+</post>
+</doc>
